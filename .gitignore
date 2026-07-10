@@ -4,6 +4,27 @@ __pycache__/
 *$py.class
 
 # Ignore environment files
-jwt_python_env
 uploads/
 .env
+venv/
+
+# Log files
+*.log
+logs/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database / SQLite (Local testing data)
+*.sqlite3
+*.db
