@@ -7,7 +7,7 @@ __pycache__/
 uploads/
 .env
 venv/
-config.py
+core/
 
 # Log files
 *.log
